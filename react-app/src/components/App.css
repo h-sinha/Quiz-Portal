@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 70px;
+  padding: 5px;
+  color: white;
+}
+
+.App-title {
+  font-size: 2.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+table {
+	margin-left:auto; 
+    margin-right:auto;
+  width: 50%;
+}
+
+th, td {
+  text-align: center;
+  padding: 15px;
+}
+.formContainer {
+  padding-left: 500px;
+  padding-right: 500px;
+
+}
+.choices{
+	text-align: justify;
+	margin-left:45%; 
+    margin-right:auto;
+    font-size: 1.5em;
+}
+div{
+	font-family:Courier New, monospace;
+}
+button{
+	height: 50px;
+}
